@@ -1,0 +1,20 @@
+effort                        = volition    - agency distraction
+reality approximation quality = observation - agency distortion  - deceit
+skill                         = experience  - error
+volition      power           = reality approximation quality * skill
+introspection power           = duration * effort      * tenacity * volition pow
+atrocity      intensity       = deceit   + deprivation + injury   + threat
+                              + etc...   - introspection power
+agency        power           = atrocity intensity     * estimated risk
+
+Duration while waxing        tenacity wanes.
+Duration can   be extended.  Tenacity     can NOT be extended!
+Tenacity when  depleted      continuation is  not    desired.
+Tenacity when  depleted more duration     is         futile!  Later again try!
+
+decision = atrocity intensity < 0 ? disempower
+decision = atrocity intensity ~ 0 ? revise
+decision = atrocity intensity > 0 ? decision
+
+By the ~ approximately      is indicated.
+By the ? the Elvis operator is indicated.
