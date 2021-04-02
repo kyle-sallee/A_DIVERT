@@ -18,3 +18,11 @@ To end irrational behavior to gain volition "A DIVERT" is used.
 "A DIVERT" to read    not even  one penny    is demanded.
 "A DIVERT" to wield a consideration duration is required.
 If successful to oneself one's destiny is restored.
+
+# More from Kyle Sallee 
+(https://github.com/kyle-sallee)
+(https://kyle-sallee.github.io/ascript/)
+(https://kyle-sallee.github.io/A_DIVERT/)
+(https://kyle-sallee.github.io/The_Great_Creator_Emualtors/)
+(https://kyle-sallee.github.io/Freedom_Paydom/)
+(https://kyle-sallee.github.io/xlaunch/)
