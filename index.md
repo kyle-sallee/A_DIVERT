@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Bioputer
+The brain the mind is a bioputer, a biological computer.
 
-You can use the [editor on GitHub](https://github.com/kyle-sallee/A_DIVERT/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Cracking
+Control, especially unauthorized control, when attained cracking became.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Malware
+In the paydom by atrocity infliction the mind is cracked and
+the malware is installed.
+By persons other than self minds become controlled.
 
-### Markdown
+# Why
+"A DIVERT" when read to spot mental malware some ability is attained.
+Addictions, compulsions to end or make volitional "A DIVERT" is used.
+To end irrational behavior to gain volition "A DIVERT" is used.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kyle-sallee/A_DIVERT/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Cost
+"A DIVERT" to read    not even  one penny    is demanded.
+"A DIVERT" to wield a consideration duration is required.
+If successful to oneself one's destiny is restored.
