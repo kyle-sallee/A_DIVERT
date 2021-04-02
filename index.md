@@ -19,6 +19,10 @@ To end irrational behavior to gain volition "A DIVERT" is used.
 "A DIVERT" to wield a consideration duration is required.
 If successful to oneself one's destiny is restored.
 
+# Audio book included.
+The text files were recited and as ogg files also are provided.
+Reading if boring or difficult from listening amusement could become.
+
 # More from Kyle Sallee 
 (https://github.com/kyle-sallee)
 (https://kyle-sallee.github.io/ascript/)
