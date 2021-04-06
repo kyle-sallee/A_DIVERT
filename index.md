@@ -24,9 +24,9 @@ The text files were recited and as ogg files also are provided.
 Reading if boring or difficult from listening amusement could become.
 
 # More from Kyle Sallee 
-(https://github.com/kyle-sallee)
-(https://kyle-sallee.github.io/ascript/)
-(https://kyle-sallee.github.io/A_DIVERT/)
-(https://kyle-sallee.github.io/The_Great_Creator_Emualtors/)
-(https://kyle-sallee.github.io/Freedom_Paydom/)
-(https://kyle-sallee.github.io/xlaunch/)
+* (https://github.com/kyle-sallee)
+* (https://kyle-sallee.github.io/ascript/)
+* (https://kyle-sallee.github.io/A_DIVERT/)
+* (https://kyle-sallee.github.io/The_Great_Creator_Emulators/)
+* (https://kyle-sallee.github.io/Freedom_Paydom/)
+* (https://kyle-sallee.github.io/xlaunch/)
